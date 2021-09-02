@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I am Zand Yasin
 
-<!--
-**zand-yasin/zand-yasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have 5 years experience on software developing
+Now i am a Full-Stack developer
+
+Developing Stuff
+[Linkedin](https://www.linkedin.com/in/zand-yasin-021023176/)
 
 Here are some ideas to get you started:
 
