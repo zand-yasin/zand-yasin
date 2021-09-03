@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8FC7F7&multiline=true&height=80&lines=I'm+Full-Stack+Developer;I'm+Mobile+Developer;I'm+Passionate+Programmer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8FC7F7&multiline=true&center=true&height=80&lines=I'm+Full-Stack+Developer;I'm+Mobile+Developer;I'm+Passionate+Programmer)](https://git.io/typing-svg)
 
   
   ![](https://komarev.com/ghpvc/?username=zand-yasin)
