@@ -1,41 +1,34 @@
-### <div align='center'>  Hi there 👋, I am Zand Yasin </div>
-
----
+# <div align='center'>  Hi there 👋, I am Zand Yasin </div>
+ ## Full Stack Developer &nbsp;
+ ![](https://komarev.com/ghpvc/?username=zand-yasin)   
+ [![Github](https://img.shields.io/github/followers/zand-yasin?label=Follow&style=social)](https://github.com/zand-yasin)
+ 
 
 
 <img  align="right"  width="150" src="/images/hi.png">
 
 <br/>
-    
-![](https://komarev.com/ghpvc/?username=zand-yasin)  
-[![Github](https://img.shields.io/github/followers/zand-yasin?label=Follow&style=social)](https://github.com/zand-yasin)
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+</br>
+</br>
+</br>
+</br>
 
   
   <div align='center'> 
     
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8FC7F7&multiline=true&center=true&height=80&lines=I'm+Full-Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
-</br>
-</br>
-</br>
-</br>
-
- <div align="center" >
-  
-![Zand's GitHub stats](https://github-readme-stats.vercel.app/api?username=zand-yasin&show_icons=true&theme=gotham)
-</div>
-
-
-
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zand-yasin&langs_count=5&theme=onedark)](https://github.com/zand-yasin/github-readme-stats)
-
-</div>
-
-
+ 
 
 <div align="center">
 
