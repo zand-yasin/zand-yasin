@@ -31,9 +31,10 @@
  
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zand-yasin&theme=onedark)](https://github.com/zand-yasin/github-profile-trophy)
-
+ 
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=zand-yasin&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 </div>
 
 
