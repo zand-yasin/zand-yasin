@@ -78,7 +78,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
 <img src="https://wikitech-static.wikimedia.org/w/images/wikitech/8/8e/Mysql_logo.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zand-yasin&repo=zand-yasin)](https://github.com/zand-yasin/zand-yasin) -->
